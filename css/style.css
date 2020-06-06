@@ -8,7 +8,7 @@ h1 {
   margin: 0;
   padding-top: 20px;
   padding-bottom: 20px;
-  font-family: 'Great Vibes', cursive;
+  font-family: cursive;
   font-size: 5vw;
   color: #900c3f;
   text-align: center;
@@ -29,7 +29,7 @@ h2 {
   padding-top: 20px;
   font-weight: normal;
   font-size: 1.2vw;
-  margin: auto 20px;
+  margin: auto 25px;
 }
 
 .top-container{
