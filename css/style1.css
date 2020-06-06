@@ -1,0 +1,73 @@
+
+body {
+  background-image: url('fruit.png');
+}
+h1 {
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: 'Great Vibes', cursive;
+  font-size: 5vw;
+  color: #900c3f;
+  text-shadow: 2px 2px #f67280;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #522546;
+  font-weight: bold;
+  font-size: 25px;
+  text-decoration: underline;
+}
+
+.container1 {
+    background-color:#f9ecec;
+    padding-bottom: 10px;
+    padding-top: 20px;
+    border-radius: 20px;
+    margin: 20px 30px;
+    opacity: 0.7;
+  }
+
+  .container2 {
+      background-color:#f9ecec;
+      padding-bottom: 10px;
+      padding-top: 20px;
+      border-radius: 20px;
+      margin: 20px 30px;
+      opacity: 0.7;
+    }
+
+  .container3 {
+        background-color:#f9ecec;
+        padding-bottom: 10px;
+        padding-top: 20px;
+        border-radius: 20px;
+        margin: 20px 30px;
+        opacity: 0.7;
+      }
+
+  .container4 {
+          background-color:#f9ecec;
+          padding-bottom: 10px;
+          padding-top: 20px;
+          border-radius: 20px;
+          margin: 20px 30px;
+          opacity: 0.7;
+        }
+
+  .container5 {
+            background-color:#f9ecec;
+            padding-bottom: 10px;
+            padding-top: 20px;
+            border-radius: 20px;
+            margin: 20px 30px;
+            opacity: 0.7;
+          }
+
+li {
+  font-family: 'Montserrat', sans-serif;
+  color: #88304e;
+  line-height: 2;
+}
